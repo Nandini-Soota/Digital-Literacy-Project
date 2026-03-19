@@ -6,7 +6,7 @@
 
 - Name: Nandini Soota
 - Registration No.: 25BCE10127
-- Branch: CSE Core)
+- Branch: CSE Core
 - Year: First Year
 - Course Code: CSE0001 – Digital Literacy
 
@@ -31,3 +31,6 @@ You can explore the project directly on GitHub in any browser. No special softwa
 1. Open the repository URL in your browser.
 2. Click on folders `task-1-presentation/` to `task-5-cybercrime/` to see artifacts for each task.
 3. Open `Project_Report.pdf` to read the full project report.
+
+## Digital Literacy Awareness Quiz Link
+https://docs.google.com/forms/d/e/1FAIpQLScEAxyPwJbTrOkAMobI8jcTPfvbiJNGlt-zCoZHy6dRwQE6Lw/viewform?usp=publish-editor
