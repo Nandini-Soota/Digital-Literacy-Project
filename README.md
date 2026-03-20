@@ -17,7 +17,7 @@ This repository contains my Digital Literacy Portfolio for the Student Digital A
 ### Repository Structure
 
 - `README.md` – Project overview, student details, module summaries, important links.  
-- `report/Project_Report.pdf` – Full project report covering all 5 tasks. 
+- `Project_Report.pdf` – Full project report covering all 5 tasks. 
 - `task-1-presentation/` – Digital literacy awareness infographic and brief description.
 - `task-2-portfolio/` – Screenshots of my digital portfolio profiles and reflection notes.
 - `task-3-platforms/` – Coding platform screenshot, Google Form and responses screenshots.
